@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Callum! </h1>
+
+<h2>Software and Cyber Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>Certifications</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>Linkedin</h2>
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **callum-2000/callum-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
