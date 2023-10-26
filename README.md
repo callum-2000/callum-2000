@@ -1,4 +1,4 @@
-<h1>Hi, I'm Callum! </h1>
+<h1>Hi, I'm Callum</h1>
 
 <h2>Software and Cyber Security Projects:</h2>
 
