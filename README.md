@@ -8,7 +8,9 @@
 
 <h2>Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+- [PCEP - Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
 
 <h2>Linkedin</h2>
 
