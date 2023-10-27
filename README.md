@@ -2,7 +2,7 @@
 
 <h2>Software and Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Code-4-wargames</b>
   - [4-digit-bruteforce](https://github.com/callum-2000/4-digit-bruteforce)
 
 
