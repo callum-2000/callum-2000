@@ -5,6 +5,9 @@
 - <b>Code-4-wargames</b>
   - [4-digit-bruteforce](https://github.com/callum-2000/4-digit-bruteforce)
   - [Atbash Cypher](https://github.com/callum-2000/Atbash-Cypher)
+ 
+- <b>PCEP projects</b>
+  - [Tic-Tac-Toe](https://github.com/callum-2000/Tic-Tac-Toe)
 
 
 <h2>Certifications</h2>
