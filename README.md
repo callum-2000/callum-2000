@@ -15,7 +15,7 @@
 
 <h2>Contact</h2>
 
-- [Linkedin](www.linkedin.com/in/callum-hoysted-30900b28b)
+- [Linkedin] - (www.linkedin.com/in/callum-hoysted-30900b28b)
 - [Email] - callum_hoysted@hotmail.co.uk
 
 <!--
