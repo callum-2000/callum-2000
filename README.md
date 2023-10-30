@@ -12,7 +12,7 @@
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 - [PCEP - Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
 
-<h2>Linkedin</h2>
+<h2>Linkedin(www.linkedin.com/in/callum-hoysted-30900b28b)</h2>
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
