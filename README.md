@@ -15,7 +15,7 @@
 <h2>Contact</h2>
 
 - [Linkedin](www.linkedin.com/in/callum-hoysted-30900b28b)
-- [Email - callum_hoysted@hotmail.co.uk]
+- [Email] - callum_hoysted@hotmail.co.uk
 
 <!--
 **callum-2000/callum-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
