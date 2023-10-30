@@ -2,6 +2,9 @@
 
 <h2>Python Projects:</h2>
 
+- <b>Python for Security</b>
+  - [Port scanner]()
+
 - <b>Code-4-wargames</b>
   - [4-digit-bruteforce](https://github.com/callum-2000/4-digit-bruteforce)
   - [Atbash Cypher](https://github.com/callum-2000/Atbash-Cypher)
